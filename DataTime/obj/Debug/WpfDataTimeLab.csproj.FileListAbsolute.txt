@@ -1,0 +1,15 @@
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\WpfDataTimeLab.csprojAssemblyReference.cache
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\MainWindow.g.cs
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\App.g.cs
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\WpfDataTimeLab_MarkupCompile.cache
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\WpfDataTimeLab_MarkupCompile.lref
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\bin\Debug\WpfDataTimeLab.exe.config
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\bin\Debug\WpfDataTimeLab.exe
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\bin\Debug\WpfDataTimeLab.pdb
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\MainWindow.baml
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\WpfDataTimeLab.g.resources
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\WpfDataTimeLab.Properties.Resources.resources
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\WpfDataTimeLab.csproj.GenerateResource.cache
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\WpfDataTimeLab.csproj.CoreCompileInputs.cache
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\WpfDataTimeLab.exe
+C:\Users\viksh\OneDrive\Рабочий стол\Занятие\WpfDataTimeLab\obj\Debug\WpfDataTimeLab.pdb
